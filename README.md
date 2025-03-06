@@ -1,6 +1,6 @@
 # 💫 About Me:
-Front-end Developer
-LHS 2025
+<p>Front-end Developer</p>
+<p>LHS 2025</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sheng45334) 
